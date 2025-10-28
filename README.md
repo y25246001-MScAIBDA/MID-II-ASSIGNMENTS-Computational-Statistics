@@ -5,4 +5,3 @@ This repository contains Python programs demonstrating basic statistical and pro
 3. Correlation and Covariance
 4. Simple Linear Regression
 5. Probability and Random Numbers
-6. 
