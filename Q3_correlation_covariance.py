@@ -1,7 +1,7 @@
 """
 ------------------------------------------------------------
 Program Title : Correlation and Covariance
-Author        : <Your Name>
+Author        : Deepak Sharma 
 Description   : This program computes covariance and correlation
                 between two datasets using NumPy and statistics.
 ------------------------------------------------------------
