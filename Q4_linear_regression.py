@@ -1,7 +1,7 @@
 """
 ------------------------------------------------------------
 Program Title : Simple Linear Regression
-Author        : <Your Name>
+Author        : Deepak Sharma 
 Description   : This program performs linear regression on two
                 datasets (X and Y) to find slope, intercept, and
                 predicted values using NumPy.
